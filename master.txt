@@ -1,0 +1,1 @@
+As we know that BGP is different protocol , protocol like rip,eigrp and ospf uses in LAN where as bgp is created for routing on the internet between autonomous system
